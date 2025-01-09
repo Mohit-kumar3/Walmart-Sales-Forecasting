@@ -48,7 +48,7 @@ xgboost
 
 This dataset contains three different CSVs. Let’s understand a brief description of each feature below -
 
-1. Sales.csv - This file contains information about the 45 stores, indicating their type and size.
+1. Stores.csv - This file contains information about the 45 stores, indicating their type and size.
 
 2. Train.csv - It contains each department's historical weekly sales data. It contains the following features -
 
